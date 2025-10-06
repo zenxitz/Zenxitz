@@ -51,3 +51,30 @@
 <p align="center">
   <i>“Silence isn't empty — it's full of answers.”</i>
 </p>
+
+
+<!-- Banner -->
+![Zenxitz Banner](https://your-banner-link-here.svg)
+
+<!-- Header -->
+<h1 align="center">🖤 Zenxitz | Developer | Designer | Creator</h1>
+<h3 align="center">"Code. Create. Chill. Repeat."</h3>
+
+<!-- Spotify -->
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  </a>
+</p>
+
+<!-- Snake Animation -->
+![snake gif](https://github.com/Zenxitz/Zenxitz/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🧩 About Me
+```yaml
+Name: Zenxitz Ravenguard
+Role: Developer / Designer
+Focus: Web Dev | UI/UX | Game Modding
+From: Thailand 🇹🇭
