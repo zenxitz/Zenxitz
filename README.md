@@ -1,5 +1,5 @@
 <!-- 🦅 Zenxitz Branding GitHub Profile -->
-<h1 align="center">👑 Zenxitz Ravenguard</h1>
+<h1 align="center">👑 Zenxitz</h1>
 <h3 align="center">Full-Stack Developer | Creative Designer | Game Modder</h3>
 
 <p align="center">
