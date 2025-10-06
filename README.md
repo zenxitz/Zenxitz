@@ -14,7 +14,7 @@
 
 - 💻 Focus: **Web Dev, UI/UX, Game Mods (FiveM)**
 - ⚙️ Tech Stack: `Laravel` · `TailwindCSS` · `Bootstrap` · `Node.js` · `MySQL`  
-- 🎮 Projects: ZenxitzDev Server | NXFAMILY | Salmon Café | HUMVN  
+- 🎮 Projects: Server FivM | POS | App | samp | อื่นๆ |
 - 🏔 Love: Mountains, Midnight coding, Lo-fi vibes  
 - 🐺 Motto: *"Silent mind, sharp creation."*
 
