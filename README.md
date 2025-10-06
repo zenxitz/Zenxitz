@@ -15,8 +15,6 @@
 - 💻 Focus: **Web Dev, UI/UX, Game Mods (FiveM)**
 - ⚙️ Tech Stack: `Laravel` · `TailwindCSS` · `Bootstrap` · `Node.js` · `MySQL`  
 - 🎮 Projects: Server FivM | POS | App | samp | อื่นๆ |
-- 🏔 Love: Mountains, Midnight coding, Lo-fi vibes  
-- 🐺 Motto: *"Silent mind, sharp creation."*
 
 ---
 
